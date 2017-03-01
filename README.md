@@ -1,4 +1,4 @@
 # MultiPointTouchScreen
 多点触摸
 
-![ABC](http://www.baidu.com/img/bdlogo.gif) 
+![效果图](https://github.com/wjh8914320/MultiPointTouchScreen/blob/master/movie.gif)
